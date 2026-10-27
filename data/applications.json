@@ -1,0 +1,126 @@
+[
+  {
+    "id": "SF-26262-001",
+    "institution": "Northstar Institute of Technology",
+    "type": "New Institution",
+    "state": "Karnataka",
+    "contactEmail": "admin@northstar.example",
+    "deadline": "2026-11-02",
+    "status": "Under Review",
+    "documents": [
+      {
+        "name": "Application form",
+        "uploaded": true
+      },
+      {
+        "name": "Land documents",
+        "uploaded": true
+      },
+      {
+        "name": "Financial statement",
+        "uploaded": false
+      },
+      {
+        "name": "Faculty details",
+        "uploaded": true
+      }
+    ],
+    "deficiencies": [
+      "Financial statement is missing"
+    ],
+    "reviews": [
+      {
+        "at": "2026-10-27T14:11:21.532Z",
+        "reviewer": "Demo Reviewer",
+        "note": "Initial scrutiny started",
+        "result": "In review"
+      }
+    ],
+    "audit": [
+      {
+        "at": "2026-10-27T14:11:21.533Z",
+        "field": "Application",
+        "oldValue": "—",
+        "newValue": "Submitted"
+      }
+    ],
+    "createdAt": "2026-10-27T14:11:21.533Z"
+  },
+  {
+    "id": "SF-26262-002",
+    "institution": "Riverbend Polytechnic",
+    "type": "Course / Intake Change",
+    "state": "Maharashtra",
+    "contactEmail": "office@riverbend.example",
+    "deadline": "2026-11-06",
+    "status": "Submitted",
+    "documents": [
+      {
+        "name": "Application form",
+        "uploaded": true
+      },
+      {
+        "name": "Course proposal",
+        "uploaded": false
+      },
+      {
+        "name": "Faculty details",
+        "uploaded": false
+      }
+    ],
+    "deficiencies": [],
+    "reviews": [],
+    "audit": [
+      {
+        "at": "2026-10-27T14:11:21.533Z",
+        "field": "Application",
+        "oldValue": "—",
+        "newValue": "Submitted"
+      }
+    ],
+    "createdAt": "2026-10-27T14:11:21.533Z"
+  },
+  {
+    "id": "SF-26262-003",
+    "institution": "Greenfield Technical College",
+    "type": "Extension of Approval",
+    "state": "Delhi",
+    "contactEmail": "principal@greenfield.example",
+    "deadline": "2026-10-25",
+    "status": "Changes Required",
+    "documents": [
+      {
+        "name": "Application form",
+        "uploaded": true
+      },
+      {
+        "name": "Compliance report",
+        "uploaded": false
+      },
+      {
+        "name": "Infrastructure details",
+        "uploaded": true
+      }
+    ],
+    "deficiencies": [
+      "Compliance report requires clarification"
+    ],
+    "reviews": [
+      {
+        "at": "2026-10-27T14:11:21.533Z",
+        "reviewer": "Demo Reviewer",
+        "note": "Please attach the compliance report",
+        "result": "Changes Required"
+      }
+    ],
+    "audit": [
+      {
+        "at": "2026-10-27T14:11:21.533Z",
+        "field": "Status",
+        "oldValue": "Submitted",
+        "newValue": "Changes Required"
+      }
+    ],
+    "createdAt": "2026-10-27T14:11:21.533Z"
+  }
+]

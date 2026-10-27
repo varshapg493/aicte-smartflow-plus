@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CMP-1001",
+    "student": "Demo Student",
+    "email": "student@example.com",
+    "category": "Application delay",
+    "subject": "Status has not changed",
+    "description": "My application status has not changed for several weeks.",
+    "evidence": [],
+    "status": "Received",
+    "createdAt": "2026-10-27T14:11:21.533Z",
+    "history": [
+      {
+        "at": "2026-10-27T14:11:21.533Z",
+        "status": "Received",
+        "note": "Complaint received by prototype portal"
+      }
+    ]
+  }
+]
